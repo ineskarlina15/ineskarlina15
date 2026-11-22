@@ -14,111 +14,46 @@
 
 ---
 
-## `about_me`
-
+## About Me
 I'm an aspiring software engineer with a particular interest in **backend development**. My learning journey includes C programming, algorithms, data structures, database fundamentals, web development, and Java programming. I enjoy understanding how systems work and improving my problem-solving skills.
-
 - 🔭 **Focus:** Backend development, databases, and software engineering
 - 🌱 **Currently learning:** Go (Golang) and React
 - 🧠 **Foundations:** Algorithms, data structures, and object-oriented programming
 - 🛠️ **Tools:** Git and GitHub
 - 🎯 **Goal:** Build practical projects and grow as a software developer
 
-## `tech_stack`
-
+## Tech Stack
 **Programming & web fundamentals**
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 **Tools & concepts**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-Fundamentals-4479A1?style=flat-square)
 ![DSA](https://img.shields.io/badge/Algorithms_%26_Data_Structures-34495E?style=flat-square)
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-555555?style=flat-square)
-
 **Currently exploring**
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 
 ---
-
-## `github_statistics`
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineskarlina15&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ineskarlina15&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
-> Language statistics reflect public repository code, not overall proficiency.
-
----
-
-### 🐍 Snake Contribution Animation
-
-<div align="center">
-
 ![Snake Contribution Animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/github-snake-dark.svg)
-
 </div>
-
-### 👾 Pac-Man Contribution Animation
-
 <div align="center">
-
 ![Pac-Man Contribution Animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/pacman-contribution-graph-dark.svg)
-
 </div>
-
 > These animations appear after the GitHub Actions workflow generates the SVG files on the `output` branch.
-
 ---
-
-## `developer_arcade`
-
+## Github Statistics
 <div align="center">
-
-### 🎮 Take a Break, Play a Game!
-
-A mini arcade featuring playable Snake and Pac-Man games, built with HTML, CSS, and JavaScript.
-
-[![Play Developer Arcade](https://img.shields.io/badge/PLAY-DEVELOPER_ARCADE-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://ineskarlina15.github.io/github-arcade/)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineskarlina15&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ineskarlina15&layout=compact&theme=github_dark&hide_border=true)
 </div>
-
-> The arcade link becomes playable after the `github-arcade` repository is published with GitHub Pages.
-
+> Language statistics reflect public repository code, not overall proficiency.
 ---
-
-## `featured_projects`
-
-I'm building and documenting projects as I continue developing my programming skills.
-
-| Area | What I'm Exploring | Technologies |
-|:--|:--|:--|
-| Backend Development | Application logic and backend fundamentals | Java, Go (learning) |
-| Web Development | Responsive and interactive web interfaces | HTML, CSS, JavaScript, React (learning) |
-| Programming Foundations | Algorithms, data structures, and OOP | C, Java |
-| Developer Arcade | Browser-based Snake and Pac-Man games | HTML, CSS, JavaScript |
 
 Explore my repositories on [GitHub](https://github.com/ineskarlina15?tab=repositories). Project links will be added here as they are published.
-
----
-
-<div align="center">
-
-### `keep_building`
-
-**Learn. Code. Build. Improve. Repeat.**
-[![GitHub Profile](https://img.shields.io/badge/Explore-My_Repositories-181717?style=flat-square&logo=github)](https://github.com/ineskarlina15?tab=repositories)
-
-</div>
