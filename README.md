@@ -69,19 +69,15 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 ## `> contribution_arcade`
 
 **Snake — contribution animation**
-
 ![Snake animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/github-contribution-grid-snake-dark.svg)
 
 **Pac-Man — contribution animation**
-
 ![Pac-Man animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/pacman-contribution-graph-dark.svg)
 
 <div align="center">
 
 ### 🎮 Want to play?
-
 [**Open Developer Arcade →**](https://ineskarlina15.github.io/github-arcade/)
 
 <sub>Always learning. Always building. ⚡</sub>
-
 </div>
