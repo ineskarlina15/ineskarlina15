@@ -44,40 +44,8 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 
-## `> github_activity`
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ineskarlina15&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ineskarlina15&layout=compact&theme=github_dark&hide_border=true)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ineskarlina15&theme=github-compact&hide_border=true)
-
-</div>
-
-> Statistics depend on public GitHub data and third-party services. Top languages reflect repository code, not overall proficiency.
-
-## `> featured_projects`
-
-| Project | What it demonstrates | Link |
-| --- | --- | --- |
-| Developer Arcade | Browser-based Snake and Pac-Man games built with HTML, CSS, and JavaScript | [Play arcade](https://ineskarlina15.github.io/github-arcade/) |
-
-<!-- Replace or extend this table with your actual completed repositories. -->
-
-## `> contribution_arcade`
-
-**Snake — contribution animation**
-![Snake animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/github-contribution-grid-snake-dark.svg)
-
-**Pac-Man — contribution animation**
-![Pac-Man animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/pacman-contribution-graph-dark.svg)
-
-<div align="center">
-
-### 🎮 Want to play?
-[**Open Developer Arcade →**](https://ineskarlina15.github.io/github-arcade/)
-
-<sub>Always learning. Always building. ⚡</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
