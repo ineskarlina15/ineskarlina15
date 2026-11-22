@@ -65,7 +65,7 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 > These animations appear after the GitHub Actions workflow generates the SVG files on the `output` branch.
 ---
 
-## `> github_statistics`
+## My Statistics
 
 <div align="center">
 
