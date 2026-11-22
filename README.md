@@ -24,6 +24,12 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 - 🛠️ **Tools:** Git and GitHub
 - 🎯 **Goal:** Build practical projects and grow as a software developer
 
+<div align="center">
+
+![Pac-Man Contribution Animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/pacman-contribution-graph-dark.svg)
+
+</div>
+
 ## Tech Stack
 
 **Programming & web fundamentals**
@@ -49,22 +55,6 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 
 ---
 
-<div align="center">
-
-![Snake Contribution Animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/github-snake-dark.svg)
-
-</div>
-
-
-<div align="center">
-
-![Pac-Man Contribution Animation](https://raw.githubusercontent.com/ineskarlina15/ineskarlina15/output/pacman-contribution-graph-dark.svg)
-
-</div>
-
-> These animations appear after the GitHub Actions workflow generates the SVG files on the `output` branch.
----
-
 ## My Statistics
 
 <div align="center">
@@ -74,8 +64,6 @@ I'm an aspiring software engineer with a particular interest in **backend develo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ineskarlina15&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
-
-> Language statistics reflect public repository code, not overall proficiency.
 ---
 <div align="center">
 
